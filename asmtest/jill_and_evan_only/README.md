@@ -25,9 +25,7 @@ Additionally, **`$a0` should be any positive integer between 0 and 12, inclusive
 ## Instructions Used
 No additional instructions beyond the lab requirements need to be implemented. Specifically, the following instructions are used by this test case: 
 
-  - `add`
-  - `addi`
-  - `j`
-  - `jal`
-  - `jr`
-  - `beq`
+- `add`
+- `addi`
+- `j`
+- `beq`
